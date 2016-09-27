@@ -1,0 +1,7 @@
+#Tue Sep 27 17:12:07 CEST 2016
+base.0=C\:\\Users\\Fany\\AndroidStudioProjects\\HolaDAM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aa61b71dfccbe741fa291ef6ee07e4985c020bd2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Fany\\AndroidStudioProjects\\HolaDAM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3d33badafcb159282633299865375c22df968a62\\classes.dex
+base.1=C\:\\Users\\Fany\\AndroidStudioProjects\\HolaDAM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3d33badafcb159282633299865375c22df968a62
+file.0=C\:\\Users\\Fany\\AndroidStudioProjects\\HolaDAM\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_aa61b71dfccbe741fa291ef6ee07e4985c020bd2\\classes.dex
